@@ -24,8 +24,8 @@
  *                - Force Communication when 'f\n' is sent over Serial        *
  *                - Software Reset when 'r\n' is sent over Serial             *
  * @author      Azoteq PTY Ltd                                                *
- * @version     v1.1                                                          *
- * @date        2023-07-10                                                    *
+ * @version     v1.1.1                                                        *
+ * @date        2023-12-05                                                    *
  ******************************************************************************/
 
 #include <Arduino.h>
